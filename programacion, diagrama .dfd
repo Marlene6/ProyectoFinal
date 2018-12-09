@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+73
+'Programa para calcular el promedio y determinar si un estudiante aprobo'
+4
+1
+45
+'Ingrese las 4 calificaciones del estudiante'
+5
+1
+11
+N1,N2,N3,N4
+6
+1
+8
+Promedio
+15
+(N1+N2+N3+N4)/4
+7
+0
+1
+12
+Promedio >69
+4
+1
+71
+'La calificacion final es de : ',  Promedio  , ' el estudiante reprobo'
+13
+4
+1
+70
+'La calificacion final es de:  ',  Promedio  , ' el estudiante aprobo'
+13
+1
